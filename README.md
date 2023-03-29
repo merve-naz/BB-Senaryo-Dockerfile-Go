@@ -1,2 +1,2 @@
 # BB-Senaryo-Dockerfile-Go
-@Gülnur Altan ile hazırlan BB Senaryo2
+@Gülnur-Altan ile hazırlan BB Senaryo2
